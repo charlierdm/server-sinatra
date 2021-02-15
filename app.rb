@@ -14,7 +14,7 @@ get '/third-page' do
 end
 
 get '/cat' do
-  "<div style='border: 3px dashed brown'>
+  "<div style='border: 4px solid brown'>
     <img src='https://i.ytimg.com/vi/mZ_CDMyz374/maxresdefault.jpg'>
    </div>"
 end
