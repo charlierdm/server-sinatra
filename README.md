@@ -1,5 +1,8 @@
 # server-sinatra
 
+<img width="1440" alt="Screenshot 2021-02-15 at 21 02 28" src="https://user-images.githubusercontent.com/75075773/107992843-76fbe600-6fd1-11eb-9a1f-7b3a73e0fc0c.png">
+
+
 ## Learning Objectives
 
 This is the beginning of week3 at Makers Academy. I'm learning how to create servers, define HTTP, write  
@@ -39,4 +42,10 @@ Adding params
 
 
 ```
-This new found knowledge will be put the test during this weeks challenge: battle. 
+
+Then we impliment the form feature and add a POST request.
+
+<img width="391" alt="Screenshot 2021-02-15 at 21 09 30" src="https://user-images.githubusercontent.com/75075773/107993124-20db7280-6fd2-11eb-8723-dda4cc509baf.png">
+
+
+Finally, in the cat photo at the top of the readme, you can see my early experimentation with chrome dev tools.
