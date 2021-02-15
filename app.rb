@@ -7,6 +7,7 @@ get '/cat' do
 end
 
 get '/bunty' do
+  p params
   @name = params[:name]
   erb :index
 end
