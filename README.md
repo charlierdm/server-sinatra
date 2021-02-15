@@ -2,10 +2,12 @@
 
 ## Learning Objectives
 
-This is the beginning of week3 at Makers Academy. I'm learning how to create servers, define HTTP, write  
+
+
+This is the beginning of week3 at Makers Academy. We're learning how to create servers, define HTTP, write  
 basic HTML and CSS and understand the fundementals of web development.
 
-Using [Sinatra](http://sinatrarb.com/intro.html), we are creating a local server and laying the foundation for a basic site. The following code launches the server and allows us to see our code within the browser.
+In this excercise, using a framework, [Sinatra](http://sinatrarb.com/intro.html), we are creating a local server and laying the foundation for a basic site. The following code launches the server and allows us to see our code within the browser.
 
 ```
 ruby app.rb
